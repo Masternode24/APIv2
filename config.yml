@@ -1,0 +1,14 @@
+# api server port
+port: 3000
+
+#available modules
+hostInfo: true
+cpu: true
+ram: true
+disks: true
+networkDevices: false 
+networkBandwidth: false
+processes: false
+ip: true
+ver: true
+up: true
